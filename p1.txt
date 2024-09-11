@@ -1,2 +1,1 @@
-hi this is the basic of git
-and this one the second line
+here are some part left
